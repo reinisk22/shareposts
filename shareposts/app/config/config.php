@@ -2,8 +2,8 @@
 // DB Parameters
 define('DB_HOST', 'localhost');
 define('DB_USER', 'root');
-define('DB_PASS', 'Pikacu123!');
-define('DB_NAME', 'shareposts');
+define('DB_PASS', 'your password');
+define('DB_NAME', 'your database name');
 
 // App root
 define('APPROOT', dirname(dirname(__FILE__)));
